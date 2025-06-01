@@ -199,21 +199,11 @@ Nᴀᴍᴇ - {}"""
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
 
-    I_CUDNT = """<b>This Movie Not Found in Database
-
-⭕️ Just Type Movie Name with Year
-⭕️ For Example "Marco 2024"
-⭕️ Search in Google for Correct Spelling & Try Again ✅ 
-
-Request for This Movie to admin 👇
-🚯➠ @khushibots</b>"""
-
-    I_CUD_NT = """This Movie Not Found in Database
-
-⭕️ Just Type Movie Name with Year
-⭕️ For Example "Marco 2024"
-⭕️ Search in Google for Correct Spelling & Try Again ✅ 
-
+    I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ  😕
+MSG HERE MOVIE NAME 👇
+🚯➠ @MOTUMOVIES </b>"""
+    I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ.
+ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
 
 
     MVE_NT_FND = """This Movie Not Found in Database
@@ -222,8 +212,7 @@ Request for This Movie to admin @ @khushibots"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {}  Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
-
+   MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
     SHORTLINK_INFO = """
 
 🫵 Select Your Language And Earn Money 💰"""
