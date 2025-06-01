@@ -218,10 +218,6 @@ Request for This Movie to admin 👇
 
     MVE_NT_FND = """This Movie Not Found in Database
 
-⭕️ Just Type Movie Name with Year
-⭕️ For Example "Marco 2024"
-⭕️ Search in Google for Correct Spelling & Try Again ✅ 
-
 Request for This Movie to admin @ @khushibots"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
