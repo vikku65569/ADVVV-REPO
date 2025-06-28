@@ -222,7 +222,7 @@ class script(object):
 
 ᴍʏ ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, ᴊᴜꜱᴛ ᴇɴᴛᴇʀ ʏᴏᴜʀ ᴍᴏᴠɪᴇ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴇ ᴏʀ ᴋ-ᴅʀᴀᴍᴀ ɴᴀᴍᴇ & ɢᴇᴛ ᴀʟʟ ɪᴛ.
 
-ᴄʀᴇᴀᴛᴇᴅ ᴡɪᴛʜ ❤️ : <a href="https://t.me/moviesvisit">ᴍᴏᴠɪᴇ ʙᴏx</a></b>"""
+
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
